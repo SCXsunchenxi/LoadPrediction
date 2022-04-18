@@ -2,7 +2,7 @@
 
 ## Data
 
-We disclosed some training and test data in the project. They are in the 'data' folder.  
+We disclose some training and test data in the project. They are in the 'data' folder.  
 In our project, we used the flight data from 5 aircraft (P123, P124, P125, P126 and P127), each aircraft having 20 flights in different days. But due to confidentiality, we only provide flight data from 2 aircraft (P125 and P127), each aircraft having 2 flights in different days. Each file contians flight parameters and strains in one flight of an aircraft. Besides, we change the chronological order of the provied data. More information is listed in 'DataInfo.doc'.   
 
 ## Algorithm
